@@ -1,0 +1,43 @@
+.mulish {
+    font-family: "Mulish", serif;
+    font-optical-sizing: auto;
+     font-weight: 300;
+    font-style: normal;
+font-size: large;}
+.column {background-color: white;border:rgb(51,122,183) 4px solid;
+padding:3px}
+#chess{background-image: url(https://t4.ftcdn.net/jpg/08/45/82/17/360_F_845821703_mYF1ATcVUDn4aqtmTcX2nzyZcz48PXNK.jpg) ;
+    background-size: 100% 100%; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    height: 400px;
+    color: black;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+#sports{background-image: url(https://media.istockphoto.com/id/1282284522/photo/run-for-life.jpg?s=612x612&w=0&k=20&c=wqri1Bcd427UxsrkOfL1fJ1MboBWGYuIzhXzkl_Y1dc=) ;
+    background-size: 100% 100%; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    height: 400px;
+    color: white;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+.text{font-size: xx-large;}
+#academics{background-image:url(https://lanetech.org/oh/images/mission-2-full.jpg) ;
+    background-size: 100% 100%; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    height: 400px;
+    color: white;
+    display: flex;
+    justify-content: center; 
+    align-items: center;}
+.anton {
+        font-family: "Anton SC", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
