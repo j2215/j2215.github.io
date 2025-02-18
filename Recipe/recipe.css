@@ -1,0 +1,20 @@
+
+header{text-align: center; margin:15px; padding:10px; background-color: rgb(0, 78, 82);border:2px solid white;border-radius: 25px}
+main {background-color: rgb(0, 132, 138); padding: 5px; margin:15px; z-index: 1;border:2px solid  rgb(0, 132, 138);border-radius: 25px;}
+body {background-color: rgb(0, 106, 111);color:white;font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+aside {text-align: left;width: 400px; right:23px; position:absolute;background-color: rgb(0, 78, 82);color: white;padding:10px;border:2px solid white;border-radius: 25px; z-index: 3;}
+#History{text-align: center;}
+footer {background-color: rgb(0, 178, 186);padding:5px;margin:0px;text-align: center;}
+section {width:900px;padding:10px; margin:15px;border:2px solid white;border-radius: 25px}
+#section2 {text-align:left;background-color: rgb(0, 178, 186);z-index: 2;position:relative;left:24px}
+img{border:2px solid white;border-radius: 25px;margin-top:10px;margin-right: 4px;}
+video {border:2px solid white;border-radius: 25px}
+.section3 {text-align: center;position: relative;left:150px; background-color:  rgb(0, 78, 82);}
+a{color:white}
+.d {text-align: center;}
+.l{position:relative;left:200px}
+span {font-style:italic;}
+#main {background-color: rgb(0, 132, 138); padding: 5px; margin:15px; z-index: 1;border:2px solid  rgb(0, 132, 138);border-radius: 25px;}
+.
+  
+
